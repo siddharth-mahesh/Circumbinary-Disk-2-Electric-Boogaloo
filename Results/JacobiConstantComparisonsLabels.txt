@@ -1,0 +1,1 @@
+mass_ratio 	 r_avg 	 jacobi_constant_comp 	 jacobi_constant_rp1981 	 relative_error

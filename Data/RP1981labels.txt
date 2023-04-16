@@ -1,0 +1,1 @@
+mass_ratio  r_posx  r_negx  r_min  jacobi_constant disk_angmomentum  time_period
